@@ -14,7 +14,7 @@ Whether you're learning cryptography basics or need a quick hashing utility, thi
               -----Requirements-----
 Python 3.6+
 Clone the repo
-git clone https://github.com/sk4mx/pyhashpass.git
-cd pyhashpass
+git clone https://github.com/sk4mx/HASH-LIB-.git
+cd HASH-LIB-
 Run
-python hash_password.py
+python HASH-LIB-.py
